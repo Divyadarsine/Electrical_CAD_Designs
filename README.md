@@ -76,7 +76,6 @@ Electrical-CAD-Portfolio
 ├── DOL-Starter
 ├── Three-Phase-Motor-Control
 ├── Electrical-Panel
-└── Images
 ```
 
 ---
